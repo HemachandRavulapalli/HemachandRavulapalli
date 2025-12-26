@@ -1,0 +1,6 @@
+Hemachand_Resume.pdf
+.DS_Store
+node_modules/
+dist/
+build/
+.env
