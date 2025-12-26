@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" width="100%" />
+  <img src="header_cropped.png" width="800" height="200" />
 </div>
 
 # 💫 About Me:
