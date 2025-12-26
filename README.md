@@ -1,4 +1,6 @@
-![Header](new_header.png)
+<p align="center">
+  <img src="new_header.png" width="600" />
+</p>
 
 # 💫 About Me:
 I am a Computer Science student passionate about Artificial Intelligence and Web Development. I enjoy building intelligent systems and full-stack applications using Python, Java, Django, and React. I am dedicated to solving complex problems through clean code and data-driven insights.
