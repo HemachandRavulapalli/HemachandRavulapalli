@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="new_header.png" width="600" />
+  <img src="new_header.png" width="100" />
 </p>
 
 # 💫 About Me:
