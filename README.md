@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="new_header.png" alt="Profile image" width="280" style="height:auto;" />
+  <img src="header.svg" width="800" />
 </p>
 
 <!-- rest of your README -->
