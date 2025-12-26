@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="new_header.png" width="200" />
+  <img src="new_header.png" alt="Profile image" width="280" style="height:auto;" />
 </p>
+
+<!-- rest of your README -->
 
 # 💫 About Me:
 I am a Computer Science student passionate about Artificial Intelligence and Web Development. I enjoy building intelligent systems and full-stack applications using Python, Java, Django, and React. I am dedicated to solving complex problems through clean code and data-driven insights.
